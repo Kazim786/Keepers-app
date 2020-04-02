@@ -4,11 +4,13 @@ import Footer from './Footer'
 import Note from './Note'
 
 function App(){
+    return
     <div>
     <Header />
-    <Footer />
     <Note />
+    <Footer />
+    
     </div>
 }
 
-export default App
+export default App;
